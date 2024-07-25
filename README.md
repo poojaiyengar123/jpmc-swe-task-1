@@ -1,5 +1,5 @@
 # JPMC Task 1
-Repo for task 1 of the JPMorgan Chase software engineering program
+Repo for task 1 of the JPMorgan Chase Software Engineering Program
 
 Supports functionality of monitoring two historically correlated stocks and processing the data feed of the two stocks' prices to enable us to analyze when trading for the stock should occur. 
 
