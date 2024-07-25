@@ -5,8 +5,8 @@ Supports functionality of monitoring two historically correlated stocks and proc
 
 ### Functions:
 
-###### getDataPoint
+#### getDataPoint
 Function that returns a tuple with stock name, bid price, ask price, and the price of the stock (calculated as the average of the bid price and ask price)
 
-###### getRatio
+#### getRatio
 Function that returns the ratio of the two stock prices
